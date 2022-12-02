@@ -1,3 +1,8 @@
 # Dette er vores main python file
 
-print("hello, world!")
+def main():
+    print("Hello, world")
+
+
+if __name__ == "__main__":
+    main()
